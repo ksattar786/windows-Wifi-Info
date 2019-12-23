@@ -1,0 +1,15 @@
+///////////////////////////////////////////Read Me Wifi Details///////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////
+
+This project has the simplest code to get the connected wifi details
+
+To Use this code Please follow the following instruction:
+
+This is a .Net Core Console App Project, so First Simply add a .Net Core Console APP Project 
+Add the Shared Dll Reference in the Project
+Copy the Code Written in Program.cs to the Program.cs of your Project
+Connect You machine to any of the available Wifi
+Run the Code and it will show the details of the connected wifi on the console
+Currently it will give you Wifi MAC, Name and Status
+
+Happy Coding..!
